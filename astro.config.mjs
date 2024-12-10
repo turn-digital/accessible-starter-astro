@@ -7,7 +7,7 @@ import icon from 'astro-icon'
 // https://astro.build/config
 export default defineConfig({
   compressHTML: true,
-  site: 'https://turn-digital.github.io/accessible-starter-astro/',
+  site: 'https://turn-digital.github.io',
   integrations: [
     mdx(),
     icon(),
